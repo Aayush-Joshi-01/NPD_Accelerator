@@ -1,0 +1,269 @@
+[
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "CADModelGenerator",
+        "importPath": "crew",
+        "description": "crew",
+        "isExtraImport": true,
+        "detail": "crew",
+        "documentation": {}
+    },
+    {
+        "label": "stl_from_text",
+        "importPath": "streamlit_stl",
+        "description": "streamlit_stl",
+        "isExtraImport": true,
+        "detail": "streamlit_stl",
+        "documentation": {}
+    },
+    {
+        "label": "stl_from_file",
+        "importPath": "streamlit_stl",
+        "description": "streamlit_stl",
+        "isExtraImport": true,
+        "detail": "streamlit_stl",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleNamespace",
+        "importPath": "types",
+        "description": "types",
+        "isExtraImport": true,
+        "detail": "types",
+        "documentation": {}
+    },
+    {
+        "label": "CodeDocsSearchTool",
+        "importPath": "crewai_tools",
+        "description": "crewai_tools",
+        "isExtraImport": true,
+        "detail": "crewai_tools",
+        "documentation": {}
+    },
+    {
+        "label": "crewai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "crewai",
+        "description": "crewai",
+        "detail": "crewai",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "importPath": "crewai",
+        "description": "crewai",
+        "isExtraImport": true,
+        "detail": "crewai",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "crewai",
+        "description": "crewai",
+        "isExtraImport": true,
+        "detail": "crewai",
+        "documentation": {}
+    },
+    {
+        "label": "Crew",
+        "importPath": "crewai",
+        "description": "crewai",
+        "isExtraImport": true,
+        "detail": "crewai",
+        "documentation": {}
+    },
+    {
+        "label": "Process",
+        "importPath": "crewai",
+        "description": "crewai",
+        "isExtraImport": true,
+        "detail": "crewai",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "ModelingApp",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class ModelingApp:\n    \"\"\"\n    A Streamlit application for 3D model generation and visualization.\n    This class provides functionality for:\n    - Uploading and viewing STL files\n    - Generating 3D models using AI\n    - Configuring visualization parameters\n    - Managing application state\n    Attributes:\n        logger (logging.Logger): Logger instance for the application",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "CADModelGenerator",
+        "kind": 6,
+        "importPath": "crew",
+        "description": "crew",
+        "peekOfCode": "class CADModelGenerator:\n    \"\"\"\n    A class to generate CAD models using various LLM backends and modeling languages.\n    This class orchestrates the generation of CAD models by coordinating between different\n    agents (planners, code generators, error resolvers) using the CrewAI framework.\n    \"\"\"\n    def __init__(self, model_name: str, api_key: Optional[str] = None) -> None:\n        \"\"\"\n        Initialize the CAD Model Generator with specified LLM backend.\n        Args:",
+        "detail": "crew",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "crew",
+        "description": "crew",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass CADModelGenerator:\n    \"\"\"\n    A class to generate CAD models using various LLM backends and modeling languages.\n    This class orchestrates the generation of CAD models by coordinating between different\n    agents (planners, code generators, error resolvers) using the CrewAI framework.\n    \"\"\"\n    def __init__(self, model_name: str, api_key: Optional[str] = None) -> None:\n        \"\"\"\n        Initialize the CAD Model Generator with specified LLM backend.",
+        "detail": "crew",
+        "documentation": {}
+    }
+]

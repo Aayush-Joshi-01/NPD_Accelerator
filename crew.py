@@ -467,4 +467,4 @@ class CADModelGenerator:
             error, code = self._process_result(result)
             iterator += 1
         # Assume STL file is always named 'generation.stl'
-        return 'code/generation.stl', code, error
+        return 'generation.stl', code, error
